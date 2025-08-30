@@ -1,0 +1,13 @@
+{
+  "name": "cibilfixer-partner",
+  "version": "1.0.0",
+  "description": "CibilFixer Partner Portal - Flutter Web App",
+  "scripts": {
+    "build": "flutter build web --release --web-renderer html",
+    "dev": "flutter run -d chrome",
+    "clean": "flutter clean && flutter pub get"
+  },
+  "keywords": ["flutter", "web", "firebase", "cibilfixer"],
+  "author": "CibilFixer Team",
+  "license": "MIT"
+}
